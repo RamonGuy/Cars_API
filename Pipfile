@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 django = "*"
+mysql-connector-python = "*"
+djangorestframework = "*"
 
 [requires]
 python_version = "3.10"
